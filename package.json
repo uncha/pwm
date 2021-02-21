@@ -10,6 +10,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "expo": "~40.0.0",
+    "expo-permissions": "~10.0.0",
     "expo-status-bar": "~1.0.3",
     "path": "^0.12.7",
     "react": "16.13.1",
