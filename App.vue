@@ -1,7 +1,7 @@
 <template>
     <web-view
-        :source="{uri:'http://pwm.cafe24app.com'}"
-        :style="{marginTop: 40}"
+        :source="{uri:'http://175.116.227.108:9102'}"
+        :style="{marginTop: 0}"
     />
 </template>
 

@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "pwm",
-    "slug": "pwm",
-    "version": "1.0.1",
+    "name": "엄마의퀘스트",
+    "slug": "엄마의퀘스트",
+    "version": "1.0.4",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -21,6 +21,7 @@
       "bundleIdentifier": "com.Uncha.Pwm"
     },
     "android": {
+      "versionCode":4,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
