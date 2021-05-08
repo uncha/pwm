@@ -1,8 +1,8 @@
 {
   "expo": {
     "name": "엄마의퀘스트",
-    "slug": "엄마의퀘스트",
-    "version": "1.0.4",
+    "slug": "pwm",
+    "version": "1.0.5",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -17,7 +17,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
+      "supportsTablet": false,
       "bundleIdentifier": "com.Uncha.Pwm"
     },
     "android": {
